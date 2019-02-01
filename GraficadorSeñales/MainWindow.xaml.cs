@@ -162,10 +162,6 @@ namespace GraficadorSeñales
                 lblFrecuenciaFundamental.Text = frecuenciaFundamental.ToString() + " Hz";
                 lblIndiceMaximoFrecuencia.Text = indiceMaximoFrecuencia.ToString();
 
-                
-
-
-
             }
              
             plnEjeXResultado.Points.Clear();

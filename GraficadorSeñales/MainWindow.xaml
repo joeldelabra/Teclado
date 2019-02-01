@@ -5,8 +5,8 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:GraficadorSeñales"
         mc:Ignorable="d"
-        Title="MainWindow" Height="753.088" Width="1441.048">
-    <Grid Margin="0,0,-8,-4" Height="726" VerticalAlignment="Top">
+        Title="MainWindow" Height="753.088" Width="1318.048">
+    <Grid Margin="0,0,169,-4" Height="726" VerticalAlignment="Top">
         <TextBlock HorizontalAlignment="Left" Margin="8,13,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="94" Text="Tiempo inicial:"/>
         <TextBox x:Name="txtTiempoInicial" HorizontalAlignment="Left" Height="23" Margin="8,34,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="94" IsEnabled="False"/>
         <TextBlock HorizontalAlignment="Left" Margin="107,13,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="94" Text="Tiempo final:"/>
